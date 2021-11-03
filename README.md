@@ -4,8 +4,8 @@ From the [SkillFactory Data Science course](https://scillfactory.ru/data-scienti
 
 ## Проекты
 
-*[Проект 0. Игра: Угадай число](https://github.com/Zhmih88/Training/tree/main/project_00)
-*[Проект 1. _______](___)
-*[Проект 2. _______](___)
+*[Проект 0. Игра: Угадай число](https://github.com/Zhmih88/Training/tree/main/project_00)\n
+*[Проект 1. _______](___)\n
+*[Проект 2. _______](___)\n
 
 ## Ссылки на резюме
